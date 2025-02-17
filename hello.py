@@ -9,3 +9,6 @@ print("Hi Yashada")
 
 name = input("Enter your name")
 print(name)
+
+age = input("Please enter your age")
+print(age)
