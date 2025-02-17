@@ -12,3 +12,5 @@ print(name)
 
 age = input("Please enter your age")
 print(age)
+
+print("This is new line in code")
